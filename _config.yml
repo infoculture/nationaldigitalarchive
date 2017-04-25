@@ -8,7 +8,7 @@
 # baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://infoculture.github.io/nationaldigitalarchive"
+url: "http://archive.infoculture.ru"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -23,7 +23,10 @@ description: Russian national digital archive (archive.infoculture.ru) Наци�
 
 # List of links in the navigation bar
 navbar-links:
-  Поддержать проект: "donate"
+  Проекты: 
+      - Консервированное государство: "projects/pregov"
+      - Специализированные коллекции: "projects/ucollect"
+  Поддержать: "donate"
   Контакты: "contacts"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -47,7 +50,7 @@ author:
   name: АНО "Информационная культура"
   email: "infoculture@infoculture.ru"
   facebook: InformationCulture  # eg. daattali
-  # github: yourname    # eg. daattali
+  github: infoculture    # eg. daattali
   # twitter: yourname   # eg. daattali
   # reddit: yourname    # eg. daattali
   # google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -67,7 +70,7 @@ footer-links-active:
   email: true
   twitter: false
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: false
   xing: false
@@ -87,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "infoculture.ru"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "archive.infoculture.ru"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
