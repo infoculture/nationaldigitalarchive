@@ -18,21 +18,22 @@ title: Консервированное государство
 
 ## Списки социальных аккаунтов
 
-Список официальных твиттер аккаунтов https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdEs4U2d5RHh0eFN0UFRCR2xJbkZ0OVE&usp=sharing
-Текущий список каналов на Youtube https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdHNEemRWQS1jckJEdEphSnk0a3ZEbGc&usp=sharing
+* [Список официальных твиттер аккаунтов](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdEs4U2d5RHh0eFN0UFRCR2xJbkZ0OVE&usp=sharing)
+[Текущий список каналов на Youtube](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdHNEemRWQS1jckJEdEphSnk0a3ZEbGc&usp=sharing)
+
 На сегодняшний день собираются данные 52 официальных Twitter аккаунтов и публикуются здесь:
 
-* База данных «Архивы государственных твиттеров» - http://hubofdata.ru/dataset/govtwitters-archives
-* Группа массивов данных «Архивы государственных микроблогов» - http://hubofdata.ru/group/govtwitters
-* Старые версии официальных сайтов
+* [База данных «Архивы государственных твиттеров»](http://hubofdata.ru/dataset/govtwitters-archives)
+* [Группа массивов данных «Архивы государственных микроблогов»](http://hubofdata.ru/group/govtwitters)
+
+## Старые версии официальных сайтов
 
 Многие из государственных сайтов регулярно уничтожаются органами власти при закрытии а по окончанию финансирования, при замене движка сайта или при очередной реформе органов власти. Мы архивируем старые версии сайтов до их уничтожения и оставляем в виде архивов Httrack для общего доступа.
 
 Совокупный объём архивов 88 сайтов составляет 22 гигабайта в запакованном виде и до 300 гигабайт в распакованном. Сейчас решается вопрос по тому как сделать все архивы доступными для широкой публики и не чтобы выходили не слишком большие расходы на трафик.
 
-Список собранных архивов:
+[Список собранных архивов](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdDJlczBoc095QmdLV25pY2NtSFRDaFE&usp=sharing)
 
-https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdDJlczBoc095QmdLV25pY2NtSFRDaFE&usp=sharing
 
 Если какие-то из этих архивов срочно Вам нужны — напишите на ibegtin@infoculture.ru и вам будет переслана ссылка по которой его можно скачать.
 
@@ -42,8 +43,8 @@ https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdDJlczBoc095QmdLV25pY2N
 
 Таким образом уже архивированы:
 
-* Блог Дмитрия Медведева - http://hubofdata.ru/dataset/blog-medvedev все данные собраны в базу данных пригодную для анализа и обработки;
-* База голосований депутатов Государственной Думы - http://hubofdata.ru/dataset/duma-votes все данные собраны в базу данных пригодную для анализа и обработки
+* [Блог Дмитрия Медведева](http://hubofdata.ru/dataset/blog-medvedev) все данные собраны в базу данных пригодную для анализа и обработки;
+* [База голосований депутатов Государственной Думы](http://hubofdata.ru/dataset/duma-votes) все данные собраны в базу данных пригодную для анализа и обработки
 * Исторические данные
 
 Сейчас мы собираем такие данные как:
