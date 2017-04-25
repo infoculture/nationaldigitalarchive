@@ -5,7 +5,7 @@ title: Консервированное государство
 
 Проект консервированное государство посвящен архивации всех сайтов всех органов власти, сайтов их проектов, бюджетных учреждений.
 
-# “Консервированное государство” / Preserved government
+# Консервированное государство / Preserved government
 
 К сожалению, в России архивация официальных веб-ресурсов, социальных сетей и иных материалов полностью отсутствует. У нас нет требований к обязательному долгосрочному сохранению информации и не остается другого способа сохранять информацию кроме как делать это самостоятельно.
 
@@ -19,7 +19,7 @@ title: Консервированное государство
 ## Списки социальных аккаунтов
 
 * [Список официальных твиттер аккаунтов](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdEs4U2d5RHh0eFN0UFRCR2xJbkZ0OVE&usp=sharing)
-[Текущий список каналов на Youtube](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdHNEemRWQS1jckJEdEphSnk0a3ZEbGc&usp=sharing)
+* [Текущий список каналов на Youtube](https://docs.google.com/spreadsheet/ccc?key=0AphaFpvgzsyhdHNEemRWQS1jckJEdEphSnk0a3ZEbGc&usp=sharing)
 
 На сегодняшний день собираются данные 52 официальных Twitter аккаунтов и публикуются здесь:
 
